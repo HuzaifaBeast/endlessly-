@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7011ac5e7fb8cba44b9f9b0cd60a41d6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shineEffectPrefab: {fileID: 3528197209200711518, guid: 0b805f3a438f69e47bd33659ab5a02b5,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
